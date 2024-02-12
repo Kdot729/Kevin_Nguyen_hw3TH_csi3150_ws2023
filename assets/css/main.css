@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+body
+{
+    overflow-x: hidden;
+}
+
 .section-1
 {
     background-image: url('../img/alaska_mountain_1.jpg');
