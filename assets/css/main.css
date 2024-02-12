@@ -18,6 +18,15 @@ body
     font-size: 50px;
 }
 
+.journey
+{
+    position: absolute;
+    top: 23vh;
+    left: 46vw;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
 .section-1
 {
     background-image: url('../img/background/alaska_mountain_1.jpg');
