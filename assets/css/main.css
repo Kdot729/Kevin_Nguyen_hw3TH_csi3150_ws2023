@@ -57,3 +57,11 @@
     background-size: cover;
     opacity: 80%;
 }
+
+.alaska
+{
+    position: relative;
+    top: 10vh;
+    left: 40vw;
+    font-size: 200px;
+}
