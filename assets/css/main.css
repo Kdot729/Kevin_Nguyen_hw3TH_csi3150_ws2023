@@ -11,37 +11,37 @@ body
 
 .section-1
 {
-    background-image: url('../img/alaska_mountain_1.jpg');
+    background-image: url('../img/background/alaska_mountain_1.jpg');
 }
 
 .section-2
 {
-    background-image: url('../img/alaska_mountain_2.jpg');
+    background-image: url('../img/background/alaska_mountain_2.jpg');
 }
 
 .section-3
 {
-    background-image: url('../img/alaska_mountain_3.jpg');
+    background-image: url('../img/background/alaska_mountain_3.jpg');
 }
 
 .section-4
 {
-    background-image: url('../img/alaska_mountain_4.jpg');
+    background-image: url('../img/background/alaska_mountain_4.jpg');
 }
 
 .section-5
 {
-    background-image: url('../img/alaska_mountain_5.jpg');
+    background-image: url('../img/background/alaska_mountain_5.jpg');
 }
 
 .section-6
 {
-    background-image: url('../img/alaska_mountain_6.jpg');
+    background-image: url('../img/background/alaska_mountain_6.jpg');
 }
 
 .section-7
 {
-    background-image: url('../img/alaska_mountain_7.jpg');
+    background-image: url('../img/background/alaska_mountain_7.jpg');
 }
 
 
@@ -60,10 +60,7 @@ body
     height: 100vh;
     background-size: cover;
     /* opacity: 95%; */
-    linear-gradient(
-        rgba(0, 0, 0, 0.9), 
-        rgba(0, 0, 0, 0.9)
-      )
+    linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
 }
 
 .alaska
