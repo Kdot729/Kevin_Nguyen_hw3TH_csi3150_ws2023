@@ -1,0 +1,19 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.landing-page
+{
+    background-image: url('../img/alaska_mountain_1.jpg');
+}
+
+.background-image
+{
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    opacity: 80%;
+}
