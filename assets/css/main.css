@@ -59,7 +59,7 @@
 
 .alaska
 {
-    position: relative;
+    position: absolute;
     top: 10vh;
     left: 40vw;
     font-size: 200px;
