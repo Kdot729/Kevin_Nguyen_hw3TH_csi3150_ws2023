@@ -74,6 +74,15 @@ body
     font-size: 200px;
 }
 
+.tour-and-travel
+{
+    position: absolute;
+    top: 65vh;
+    left: 45vw;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
 .yellow
 {
     color: rgb(255, 196, 3);
