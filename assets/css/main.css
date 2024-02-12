@@ -40,6 +40,15 @@
 }
 
 
+.bottom-arrow
+{
+    position: relative;
+    top: 70vh;
+    left: 50vw;
+    font-size: 100px;
+    color: rgb(200, 136, 19);
+}
+
 .background-image
 {
     background-repeat: no-repeat;
