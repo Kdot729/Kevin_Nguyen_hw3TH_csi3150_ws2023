@@ -9,6 +9,15 @@ body
     overflow-x: hidden;
 }
 
+.paw
+{
+    position: absolute;
+    top: 15vh;
+    left: 50vw;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+
 .section-1
 {
     background-image: url('../img/background/alaska_mountain_1.jpg');
