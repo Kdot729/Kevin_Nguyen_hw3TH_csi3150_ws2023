@@ -46,7 +46,6 @@
     top: 70vh;
     left: 50vw;
     font-size: 100px;
-    color: rgb(200, 136, 19);
 }
 
 .background-image
@@ -64,4 +63,9 @@
     top: 10vh;
     left: 40vw;
     font-size: 200px;
+}
+
+.yellow
+{
+    color: rgb(236, 206, 12);
 }
