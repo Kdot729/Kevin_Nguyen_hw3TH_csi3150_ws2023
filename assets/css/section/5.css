@@ -2,3 +2,22 @@
 {
     background-image: url('../../img/background/alaska_mountain_5.jpg');
 }
+
+.info-circle-container 
+{
+    display: grid;
+    position: relative;
+    top: 20vh;
+    left: 20vw;
+    grid-template-columns: repeat(4, 200px);
+    grid-template-rows: 200px;
+    column-gap: 50px;
+}
+
+.info-circle
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: black;
+}
