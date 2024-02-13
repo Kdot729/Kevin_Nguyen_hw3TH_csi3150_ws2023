@@ -10,6 +10,11 @@
     left: 15vw;
 }
 
+.section-2
+{
+    background-image: url('../img/background/alaska_mountain_2.jpg');
+}
+
 .section-2-text
 {
     display: grid;
