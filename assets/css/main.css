@@ -1,3 +1,5 @@
+@import "./section/1.css";
+
 *
 {
     margin: 0;
@@ -9,28 +11,6 @@ body
     overflow-x: hidden;
 }
 
-.paw
-{
-    position: absolute;
-    top: 15vh;
-    left: 50vw;
-    color: rgb(255, 255, 255);
-    font-size: 50px;
-}
-
-.journey
-{
-    position: absolute;
-    top: 23vh;
-    left: 46vw;
-    color: rgb(255, 255, 255);
-    font-size: 25px;
-}
-
-.section-1
-{
-    background-image: url('../img/background/alaska_mountain_1.jpg');
-}
 
 .section-2
 {
@@ -77,23 +57,6 @@ body
     width: 100vw;
     height: 100vh;
     background-size: cover;
-}
-
-.alaska
-{
-    position: absolute;
-    top: 35vh;
-    left: 35vw;
-    font-size: 200px;
-}
-
-.tour-and-travel
-{
-    position: absolute;
-    top: 65vh;
-    left: 45vw;
-    color: rgb(255, 255, 255);
-    font-size: 25px;
 }
 
 .yellow
