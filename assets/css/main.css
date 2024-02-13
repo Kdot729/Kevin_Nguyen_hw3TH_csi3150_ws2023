@@ -69,3 +69,11 @@ body
 {
     color: rgb(255, 255, 255);
 }
+
+.base-button
+{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(255, 196, 3);
+    color: black;
+}
