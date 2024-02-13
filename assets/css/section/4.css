@@ -2,3 +2,15 @@
 {
     background-image: url('../../img/background/alaska_mountain_4.jpg');
 }
+
+.section-4-header
+{
+    font-size: 55px;
+    width: 300px; 
+    overflow-wrap: break-word; 
+    word-wrap: break-word; 
+    word-break: break-word; 
+    position: relative;
+    top: 10vh;
+    left: 15vw;
+}
