@@ -56,3 +56,8 @@
     width: 200px;
     height: 150px;
 }
+
+.dropdown-arrow:hover + .dropdown-text
+{
+    display: block;
+}
