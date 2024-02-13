@@ -24,3 +24,9 @@
     grid-template-columns: repeat(1, 900px);
     grid-template-rows: repeat(3, 200px);
 }
+
+.subdivider
+{
+    display: grid;
+    grid-template-rows: 50px 150px;
+}
