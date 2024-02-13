@@ -19,3 +19,10 @@
     grid-template-rows: repeat(2, 125px);
     position: relative;
 }
+
+.section-2-button
+{
+    position: relative;
+    top: 10vh;
+    left: 45vw;
+}
