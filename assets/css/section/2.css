@@ -9,3 +9,13 @@
     top: 35vh;
     left: 15vw;
 }
+
+.section-2-text
+{
+    display: grid;
+    top: 5vh;
+    left: 45vw;
+    grid-template-columns: repeat(1, 700px);
+    grid-template-rows: repeat(2, 125px);
+    position: relative;
+}
