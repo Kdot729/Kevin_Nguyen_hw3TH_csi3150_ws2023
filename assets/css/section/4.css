@@ -14,3 +14,13 @@
     top: 10vh;
     left: 15vw;
 }
+
+.section-4-text
+{
+    display: grid;
+    position: relative;
+    top: -40vh;
+    left: 35vw;
+    grid-template-columns: repeat(1, 900px);
+    grid-template-rows: repeat(3, 200px);
+}
