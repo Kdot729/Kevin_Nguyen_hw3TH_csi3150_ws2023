@@ -1,7 +1,10 @@
 .alaska-question
 {
     font-size: 55px;
-    /* white-space: normal; */
+    width: 200px; 
+    overflow-wrap: break-word; 
+    word-wrap: break-word; 
+    word-break: break-word; 
     position: relative;
     top: 35vh;
     left: 35vw;
