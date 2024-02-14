@@ -11,3 +11,13 @@
     top: 30vh;
     left: 10vw;
 }
+
+.section-8-contact-info
+{
+    position: absolute;
+    top: 40vh;
+    left: 10vw;
+    display: grid;
+    grid-template-columns: 250px;
+    grid-template-rows: repeat(4, 30px);
+}
