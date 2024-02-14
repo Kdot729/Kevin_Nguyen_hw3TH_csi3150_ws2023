@@ -5,3 +5,14 @@
     top: 15vh;
     left: 45vw;
 }
+
+.testimonial
+{
+    display: grid;
+    position: relative;
+    top: 15vh;
+    left: 37vw;
+    grid-template-columns: 500px;
+    grid-template-rows: repeat(2, 200px);
+    text-align: center;
+}
