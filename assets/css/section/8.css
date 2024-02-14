@@ -31,3 +31,14 @@
     grid-template-columns: repeat(5, 50px);
     grid-template-rows: 50px;
 }
+
+.form-container
+{
+    display: grid;
+    position: relative;
+    top: 35vh;
+    left: 50vw;
+    row-gap: 10px;
+    grid-template-columns: 200px;
+    grid-template-rows: repeat(2, 50px) 200px 50px;
+}
