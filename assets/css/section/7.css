@@ -20,6 +20,14 @@
     font-size: 100px;
 }
 
+.right-arrow
+{
+    position: absolute;
+    top: 45vh;
+    left: 90vw;
+    font-size: 100px;
+}
+
 .first-column
 {
     grid-column: 1 / span 1;
