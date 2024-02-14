@@ -1,0 +1,11 @@
+.section-7-background-image
+{
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+.vh-25
+{
+    width: 25vh;
+}
