@@ -1,11 +1,12 @@
-.section-7-background-image
+.image-container
 {
-    background-repeat: no-repeat;
-    height: 100vh;
-    background-size: cover;
+    display: grid;
+    grid-template-columns: repeat(4, 25vw);
+    grid-template-rows: 100vh;
 }
 
-.vh-25
+.section-7-background-image
 {
-    width: 25vh;
+    width: 100vh;
+    height: 100vh;
 }
