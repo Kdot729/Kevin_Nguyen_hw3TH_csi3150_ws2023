@@ -16,3 +16,11 @@
     grid-template-rows: 200px 50px;
     text-align: center;
 }
+
+.bottom-arrow-6
+{
+    position: relative;
+    top: 25vh;
+    left: 50vw;
+    font-size: 100px;
+}
