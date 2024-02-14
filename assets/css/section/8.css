@@ -1,4 +1,13 @@
 .section-8
 {
     background-image: url('../../img/background/alaska_mountain_7.jpg');
+    position: relative;
+}
+
+.section-8-header
+{
+    font-size: 50px;
+    position: absolute;
+    top: 30vh;
+    left: 10vw;
 }
