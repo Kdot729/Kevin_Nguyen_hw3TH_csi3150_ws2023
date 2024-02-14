@@ -15,8 +15,9 @@
 .left-arrow
 {
     position: absolute;
-    top: 100px;
-    left: 100px;
+    top: 45vh;
+    left: 5vw;
+    font-size: 100px;
 }
 
 .first-column
