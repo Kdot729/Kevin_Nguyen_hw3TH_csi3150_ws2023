@@ -52,6 +52,14 @@ input[type=text]
     color: white;
 }
 
+input[type=submit] 
+{
+    background-color:rgb(255, 196, 3);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
 ::placeholder 
 {
     color: white;
